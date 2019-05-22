@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Feature Layer (Feature Service)</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Sample Strings -->
+    <string name="sample_service_url">https://vicinitygis.ewn.com.au:6443/arcgis/rest/services/POC_v2/FeatureServer/4</string>
+</resources>
